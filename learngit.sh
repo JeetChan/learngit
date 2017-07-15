@@ -881,3 +881,6 @@ To git@github.com:JeetChan/learngit.git
  * [new branch]      dev -> dev
 JeetChan@USER-20150122XL:/mnt/c/Users/Administrator/learngit$ git tag
 JeetChan@USER-20150122XL:/mnt/c/Users/Administrator/learngit$
+ssh-keygen -t rsa -C "xxxxxx@yy.com" 
+ssh -T git@github.com
+git clone git@github.com:JeetChan/learngit.git
